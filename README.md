@@ -8,6 +8,7 @@
  
 ![boids_gameView1](https://github.com/YooKyubin/Unity_Boids/assets/110286171/bf70e56c-caf0-43ec-8fca-aad5af791279)
 ![boids_gameView2](https://github.com/YooKyubin/Unity_Boids/assets/110286171/71cd6558-c551-4bcb-90dc-db7a14a30ef7)
+![boids_newGameView1](https://github.com/YooKyubin/Unity_Boids/assets/110286171/52b31a49-9855-4cf0-bab6-a3d01f73bb06)
 
 </br></br>
 
